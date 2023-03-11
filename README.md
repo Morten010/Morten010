@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🏋️Morten Rasmussen
 
 <!--
 **Morten010/Morten010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
