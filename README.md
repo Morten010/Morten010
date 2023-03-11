@@ -1,6 +1,6 @@
 # 🏋️ Morten Rasmussen
 
-**Digital Craftsman**
+**`Digital Craftsman`**
 
 A 19 year old, web development student from denmark.
 
