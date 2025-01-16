@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-A 20 year old, webdeveloper from denmark.
+A 21 year old, webdeveloper from denmark.
 
 ## 📊 stats
 ![Morten's Github Stats](https://github-readme-stats.vercel.app/api?username=morten010&show_icons=true&theme=codeSTACKr)
